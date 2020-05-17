@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Gitfolio"
+    url: /dist/
+    
   #- title: "Guide"
   #  url: /markdown/
