@@ -1,6 +1,6 @@
 ---
 title: "HEADHUNTER"
-excerpt: "Çalışan ve İşverenleri buluşturmayı amaçlayan bir site<br/><img src='/images/portfolyo/headhunter/headhunter_home.PNG'>"
+excerpt: "A web application aiming to bring employees and employers together<br/><img src='/images/portfolyo/headhunter/headhunter_home.PNG'>"
 collection: portfolio
 ---
  
@@ -8,6 +8,6 @@ This project is a web application prepared for the ESOGU Database Management Sys
 
 
 ER Diagram<br/><img src='/images/portfolyo/headhunter/ERDiagram.PNG'>
-About Us Page<br/><img src='/images/portfolyo/headhunter/headhunter_about.PNG
+About Us Page<br/><img src='/images/portfolyo/headhunter/headhunter_about.PNG'>
 
 
