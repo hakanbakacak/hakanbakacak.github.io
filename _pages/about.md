@@ -13,7 +13,7 @@ My name is Hakan. I graduated from ASO Technical College Departmant of Industria
 
 I am currently working on my Thermal Camera Emotion Detection project at Bildam, which is also supported by TUBITAK, and at the same time, I am doing data visualization and interpretation studies on biometric sensor outputs in there. Sometimes I produce youtube videos :)   
 [Python ile Programlamaya Giriş](https://youtu.be/kMdaBAZYWU4)   
-[Flutter'a Giriş - Masaüstünde, Webte ve Mobilde Derleme](https://youtu.be/ga97NDgiP20)   
+[Flutter'a Giriş - Mobil Uygulama, Masaüstü ve Web Uygulaması Derleme](https://youtu.be/ga97NDgiP20)   
 [Kişisel websitesi yapmak](https://youtu.be/K3pzIp3LaGQ)   
 [C++ Dersleri Bölüm-1](https://youtu.be/ShwbJGMdym4)   
 
