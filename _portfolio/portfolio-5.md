@@ -1,6 +1,6 @@
 ---
 title: "Seyir"
-excerpt: "Turkcell Unlimited Talent Program Project<br/><img src='/images/portfolyo/bookStore/bookstore.png'>"
+excerpt: "prototype of route sharing platform named Seyir<br/><img src="https://github.com/hakanbakacak/Seyir/blob/master/ss/login.PNG" height="480px">"
 collection: portfolio
 ---
 
