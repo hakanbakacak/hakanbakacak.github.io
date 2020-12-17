@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Industrial Automation Technologies, ASO Technical Collage, 2012 
-* B.S. in GitHub, Eskisehir Osmangazi University, 2016
+* B.S. in Computer Engineering, Eskisehir Osmangazi University, 2016
 
 Work experience
 ======

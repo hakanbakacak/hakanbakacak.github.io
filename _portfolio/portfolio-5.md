@@ -1,10 +1,11 @@
 ---
-title: "Online Book Store"
-excerpt: "C# destop app for book store<br/><img src='/images/portfolyo/bookStore/bookstore.png'>"
+title: "Seyir"
+excerpt: "Turkcell Unlimited Talent Program Project<br/><img src='/images/portfolyo/bookStore/bookstore.png'>"
 collection: portfolio
 ---
 
-A C # desktop application prepared using MSSQL database. Within the scope of this project, I gave importance to preparing a project in accordance with the rules of object-oriented programming approach and tried to add appropriate design patterns. I tried to prepare a suitable system for features that can be added to the project later. In addition, we used git version control system to coordinate with my teammates. As a result of the project, I learned many things about database insert, update delete select operations, and at the same time, I realized the positive effects of coding in accordance with the object-oriented approach on teamwork. I had the opportunity to see how UML diagrams are improving the project processes.
+This repo contains the mobile application prototype codes of our Digital Service Project called Seyir, which we developed with my teammates within the scope of Turkcell Unlimited Talent program. During the 1-week project development process, first an idea was found, then various analyzes and marketing strategies were created and the mobile application was designed. The mobile application [**design**](https://www.figma.com/proto/VSC4tNCpSh5GY3r5qfM8E9/Seyir-App?node-id=83%3A329&viewport=-269%2C322%2C0.2075285017490387&scaling=scale-down) was made by Enes Alıoğlu via figma. This design has been implemented with Flutter. You can access the project presentation from this [**link**.](https://docs.google.com/presentation/d/19qBKF0mmcsd6jldlN8p6LXIufPd05f7c_3gnc96PEfQ/edit?usp=sharing)
 
-<h1>Book Store</h1><br/><img src='/images/portfolyo/bookStore/bookstrone_home.png'>
-<h1>Book Store</h1><br/><img src='/images/portfolyo/bookStore/bookstrone_home2.png'>
+<img src="https://github.com/hakanbakacak/Seyir/blob/master/ss/login.PNG" height="480px"> <img src="https://github.com/hakanbakacak/Seyir/blob/master/ss/home.PNG" height="480px">  
+<img src="https://github.com/hakanbakacak/Seyir/blob/master/ss/findRoute.PNG" height="480px"> <img src="https://github.com/hakanbakacak/Seyir/blob/master/ss/routeDetail.PNG" height="480px">
+
